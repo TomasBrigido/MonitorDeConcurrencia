@@ -1,0 +1,22 @@
+
+Datos de almacenamiento de memoria 
+
+Tareas procesadas por el procesador 1: 500
+Tareas procesadas por el procesador 2: 500
+ 
+Tareas 1 procesadas por el procesador 1: 267
+Tareas 2 procesadas por el procesador 1: 233
+Tareas 1 procesadas por el procesador 2: 246
+Tareas 2 procesadas por el procesador 2: 254
+ 
+Datos almacenados en el slot de memoria 1: 511
+Datos almacenados en el slot de memoria 2: 489
+ 
+Porcentaje de tareas del procesador 1 con respecto al total: 50%
+Porcentaje de tareas del procesador 2 con respecto al total: 50%
+ 
+Porcentaje de tareas 1 del procesador 1 con respecto al total: 26%
+Porcentaje de tareas 2 del procesador 1 con respecto al total: 23%
+Porcentaje de tareas 1 del procesador 2 con respecto al total: 24%
+Porcentaje de tareas 2 del procesador 2 con respecto al total: 25%
+**********************************
